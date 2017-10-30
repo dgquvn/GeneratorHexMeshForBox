@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp  -rdynamic CMakeFiles/Mesh_Generator.dir/MeshGen_main.cpp.o  -o Mesh_Generator -lboost_program_options gen_mesh_classes/libgen_mesh_classes.a 

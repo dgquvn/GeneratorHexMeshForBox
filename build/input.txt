@@ -1,0 +1,2 @@
+Length dim 20 num 80 Width dim 4 num 16
+Height dim 1 num 4
